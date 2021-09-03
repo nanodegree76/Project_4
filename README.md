@@ -24,7 +24,8 @@ Modelling using machine learning algorithms such as Logistic Regression, Random 
 File Descriptions
 There is one exploratory notebook and html file of the notebook available here to showcase my work in predicting churn. Markdown cells were used throughout to explain the process taken.
 
-Medium Blog Post
+**Medium Blog Post**<br>
 You will find the corresponding medium post here: https://medium.com/@nanodegree76/tackling-user-churn-with-trees-7c278e2b0b18 
-Licensing, Authors, Acknowledgements, etc.
+
+**Licensing, Authors, Acknowledgements, etc.**<br>
 A big thanks to Udacity for providing the data set and accompanying knowledge in the course 'Dat Science'.
