@@ -1,8 +1,8 @@
 # Project_4 Sparkify
 
-Sparkify: Predicting Churn for a Music Streaming Service
+Sparkify: "Tackling User Churn with Trees"
 
-Installations
+**Installations:**
 - NumPy
 - Pandas
 - Seaborn
