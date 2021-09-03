@@ -11,7 +11,7 @@ PySpark ML
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
 Project Motivation
-For this project we were interested in predicting customer churn for a fictional music streaming company: Sparkify.
+The motivation of this project was to understand what how churning users differ from loyal users in order to be able to predict which users might be churning.
 
 The project involved:
 
@@ -26,4 +26,4 @@ Medium Blog Post
 Since I have started the Data Science Course as an educational measure from the employer, we were not allowed to publish under our name. There the blog post is uploaded here. 
 
 Licensing, Authors, Acknowledgements, etc.
-I'd like to acknowledge Udacity for the project idea and workspace.
+A big thanks to Udacity for providing the data set and accompanying knowledge in the course 'Dat Science'.
