@@ -1,13 +1,15 @@
 # Project_4 Sparkify
 
 Sparkify: Predicting Churn for a Music Streaming Service
+
 Installations
-NumPy
-Pandas
-Seaborn
-Matplotlib
-PySpark SQL
-PySpark ML
+- NumPy
+- Pandas
+- Seaborn
+- Matplotlib
+- PySpark SQL
+- PySpark ML
+
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
 Project Motivation
